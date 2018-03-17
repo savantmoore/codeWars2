@@ -1,6 +1,6 @@
 ![.:Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!!.:.](codeWars2.png)
 
-## CodeWars Challenge- 2
+## CodeWars Challenge- 1
 
 Description:
 
